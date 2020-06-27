@@ -1,5 +1,3 @@
-<div align="center">
-
 # Minedit
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/Minedit?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 A minimalistic text editor built using Electron.
 
-</div>
 
 ## Usage Instructions
 
@@ -23,5 +20,4 @@ npm install
 npm start
 ```
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
