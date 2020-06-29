@@ -10,7 +10,6 @@
 
 A minimalistic text editor built using Electron.
 
-
 ## Usage Instructions
 
 ```bash
@@ -19,5 +18,3 @@ cd Minedit
 npm install
 npm start
 ```
-
-
