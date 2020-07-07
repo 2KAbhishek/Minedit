@@ -4,7 +4,7 @@
   "description": "Minimalistic text editor built using Electron.",
   "main": "index.js",
   "dependencies": {
-    "electron": "^7.1.14",
+    "electron": "^7.2.4",
     "monaco-editor": "^0.19.3",
     "monaco-loader": "^1.0.0"
   },
